@@ -1,0 +1,6 @@
+download try.tar 
+extract it 
+run home_window.py
+select any virus/safe file 
+or select a folder which contains either all the safe file or combination of both files or only folder with virus test executable file
+click on run or reset as per your convenience
